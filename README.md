@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Leading development teams at **Human Element**, specializing in Adobe Commerce, BigCommerce, Znode, and Shopify implementations. I combine hands-on technical excellence with strategic leadership, managing teams of 2-10 developers across dozens of concurrent projects.
+Leading development teams at **[Human Element](https://www.human-element.com)**, specializing in Adobe Commerce, BigCommerce, Znode, and Shopify implementations. I combine hands-on technical excellence with strategic leadership, managing teams of 2-10 developers across dozens of concurrent projects.
 
 ## 🛠️ Tech Stacks
 
@@ -30,20 +30,15 @@ Leading development teams at **Human Element**, specializing in Adobe Commerce, 
 ![Magento](https://img.shields.io/badge/Adobe_Commerce-FF6600?style=flat-square&logo=magento&logoColor=white)
 ![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=flat-square&logo=bigcommerce&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Znode](https://img.shields.io/badge/Znode-0066CC?style=flat-square&logoColor=white)
+![Sana](https://img.shields.io/badge/Sana-4A90E2?style=flat-square&logoColor=white)
 
 ### DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🤝 Let's Connect!
 
 I'm always open to discussing e-commerce development, team leadership, or emerging technologies. Feel free to reach out!
-
----
-
-<div align="center">
-  
-*"Combining hands-on technical excellence with strategic leadership."*
-
-</div>
