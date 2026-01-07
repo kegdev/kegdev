@@ -1,4 +1,4 @@
-# Hi Y'all! 👋 I'm Kevin Earl Gardner
+# Hi Y'all! 👋 I'm Kevin.
 
 <div align="center">
   
@@ -44,6 +44,6 @@ I'm always open to discussing e-commerce development, team leadership, or emergi
 
 <div align="center">
   
-*"Combining hands-on technical excellence with strategic leadership"*
+*"Combining hands-on technical excellence with strategic leadership."*
 
 </div>
