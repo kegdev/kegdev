@@ -46,6 +46,4 @@ I'm always open to discussing e-commerce development, team leadership, or emergi
   
 *"Combining hands-on technical excellence with strategic leadership"*
 
-⭐️ From [kegdev](https://github.com/kegdev)
-
 </div>
